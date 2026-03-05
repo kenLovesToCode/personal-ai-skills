@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next.js Vitest + RTL"
+  short_description: "Set up Next.js unit tests with Vitest."
+  default_prompt: "Use $nextjs-vitest-rtl-testing to set up or fix Vitest + React Testing Library unit tests in my Next.js project."
